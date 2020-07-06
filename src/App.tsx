@@ -3,6 +3,7 @@ import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import './App.css';
 import words from './words.json';
+import logo from './logo512.png';
 
 
 toast.configure({
@@ -50,7 +51,7 @@ function App() {
     return (
         <div className="App">
             <div className="principal">
-                <img src="/logo512.png" alt="Word generator" title="Word generator" />
+                <img src={logo} alt="Word generator" title="Word generator" />
                 <button
                     title="click to generate a new word"
                     className="generate"
