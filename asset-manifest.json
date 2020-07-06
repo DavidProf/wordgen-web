@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wordgen-web/static/css/main.948958fc.chunk.css",
+    "main.js": "/wordgen-web/static/js/main.6f364148.chunk.js",
+    "main.js.map": "/wordgen-web/static/js/main.6f364148.chunk.js.map",
+    "runtime-main.js": "/wordgen-web/static/js/runtime-main.b629d670.js",
+    "runtime-main.js.map": "/wordgen-web/static/js/runtime-main.b629d670.js.map",
+    "static/css/2.d34346ea.chunk.css": "/wordgen-web/static/css/2.d34346ea.chunk.css",
+    "static/js/2.a19c3f90.chunk.js": "/wordgen-web/static/js/2.a19c3f90.chunk.js",
+    "static/js/2.a19c3f90.chunk.js.map": "/wordgen-web/static/js/2.a19c3f90.chunk.js.map",
+    "index.html": "/wordgen-web/index.html",
+    "precache-manifest.f2162605528517dc029451d739706448.js": "/wordgen-web/precache-manifest.f2162605528517dc029451d739706448.js",
+    "service-worker.js": "/wordgen-web/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/wordgen-web/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.948958fc.chunk.css.map": "/wordgen-web/static/css/main.948958fc.chunk.css.map",
+    "static/js/2.a19c3f90.chunk.js.LICENSE.txt": "/wordgen-web/static/js/2.a19c3f90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b629d670.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.a19c3f90.chunk.js",
+    "static/css/main.948958fc.chunk.css",
+    "static/js/main.6f364148.chunk.js"
+  ]
+}
