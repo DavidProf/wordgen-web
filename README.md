@@ -14,8 +14,7 @@ Well, this and more. I don't know, why do you will need this? Be creative.
 This word generator is easy to use and fast, you will love this (maybe not, this is okay too).
 
 No more words, or better, just any random word:
-
-[click here to get a random word](https://davidprof.github.io/wordgen-web/)
+- [click here to get a random word](https://davidprof.github.io/wordgen-web/)
 
 # Do you want to colaborate?
 

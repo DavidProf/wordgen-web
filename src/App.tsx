@@ -13,6 +13,7 @@ toast.configure({
     closeOnClick: false,
     pauseOnHover: true,
     draggable: true,
+    limit: 1
 });
 
 function App() {
@@ -50,13 +51,13 @@ function App() {
 
     return (
         <div className="App">
-            <div className="principal">
+            <div className="main">
                 <img src={logo} alt="Word generator" title="Word generator" />
                 <button
                     title="click to generate a new word"
                     className="generate"
                     onClick={setRandomWord}>
-                    generate word(s)
+                    generate word
                 </button>
                 <p
                     id="random_word"
@@ -80,31 +81,35 @@ function App() {
                         adjective
                     </button>
                     <button
-                        title="enable/disable adverb"
+                        title="enable/disable adverbs"
                         aria-pressed={allowAdverb}
                         onClick={() => setAllowAdverb(!allowAdverb)}>
                         adverb
                     </button>
                     <button
-                        title="enable/disable noun"
+                        title="enable/disable nouns"
                         aria-pressed={allowNoun}
                         onClick={() => setAllowNoun(!allowNoun)}>
                         noun
                     </button>
                     <button
-                        title="enable/disable verb"
+                        title="enable/disable verbs"
                         aria-pressed={allowVerb}
                         onClick={() => setAllowVerb(!allowVerb)}>
                         verb
                     </button>
                     <button
-                        title="enable/disable compound"
+                        title="enable/disable words compound"
                         aria-pressed={allowCompound}
                         onClick={() => setAllowCompound(!allowCompound)}>
                         compound
                     </button>
                 </div>
             </div>
+            <footer>
+                See the code on &nbsp;
+                <a rel="noopener noreferrer" target="_blank" href="https://github.com/DavidProf/wordgen-web">GitHub</a>
+            </footer>
         </div>
     );
 }
