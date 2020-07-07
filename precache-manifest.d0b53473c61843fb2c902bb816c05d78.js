@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e733caf95147ab3a673b87045a0cfad",
+    "revision": "9a0329ff770ec4da365f85ca4c8d3239",
     "url": "/wordgen-web/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordgen-web/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "e6ca4989e9ed9b5df809",
-    "url": "/wordgen-web/static/css/main.948958fc.chunk.css"
+    "revision": "f5f449edce2dfccf4eb5",
+    "url": "/wordgen-web/static/css/main.d9970cde.chunk.css"
   },
   {
     "revision": "2bf3e321bc4c5f32f36a",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wordgen-web/static/js/2.3149d352.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6ca4989e9ed9b5df809",
-    "url": "/wordgen-web/static/js/main.b25a51b0.chunk.js"
+    "revision": "f5f449edce2dfccf4eb5",
+    "url": "/wordgen-web/static/js/main.9bf98c00.chunk.js"
   },
   {
     "revision": "d65329ddbf99030a2a7d",
